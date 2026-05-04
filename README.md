@@ -6,7 +6,7 @@ Designed with arcade “juice”, combo systems, and mobile-first interaction fe
 ---
 
 ## 🔗 Live Demo
-👉 https://ankitky30-tech.github.io/whack-a-mole
+👉  https://ankitky30-tech.github.io/whack-a-mole/
 
 ---
 
